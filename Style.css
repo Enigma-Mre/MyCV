@@ -1,0 +1,158 @@
+
+*{
+    margin: 3;
+    padding: 200;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 5%;
+    background: #818181;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+form{
+    background: #fff;
+    width: 600px;
+    height: 100px;
+    display: flex;
+}
+form input{
+    flex: 1;
+    border: #060606;
+    outline: #060606;
+}
+form button{
+    background: tomato;
+    padding: 4px 10px;
+    border: #060606;
+    outline: #060606;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.heading1{
+    width: 100%;
+    height: 5vh;
+    background: #818181;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'poppind', sans-serif;
+}
+
+.heading2{
+    width: 100%;
+    height: 9vh;
+    background: #818181;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    font-family: 'poppind', sans-serif;
+}
+
+.information{
+    width: 100%;
+    height: 55vh;
+    background: #818181;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    font-family: 'poppind', sans-serif;
+}
+form{
+    background: #818181;
+    width: 150px;
+    height: 55px;
+    display: block;
+}
+
+.heading3{
+    width: 100%;
+    height: 4vh;
+    background: #818181;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    font-family: 'poppind', sans-serif;
+}
+form{
+    background: #818181;
+    width: 150px;
+    height: 55px;
+    display: block;
+}
+
+.skills{
+    width: 100%;
+    height: 20vh;
+    background: #818181;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'poppind', sans-serif;
+}
+
+.education{
+    width: 100%;
+    height: 3vh;
+    background: #818181;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'poppind', sans-serif;
+}
+
+.experience{
+    width: 100%;
+    height: 6vh;
+    background: #818181;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'poppind', sans-serif;
+}
+
+.heading4{
+    width: 100%;
+    height: 6vh;
+    background: #818181;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'poppind', sans-serif;
+}
+
+.bio1{
+    width: 100%;
+    height: 8vh;
+    background: #818181;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    font-family: 'poppind', sans-serif;
+}
+
+.bio2{
+    width: 100%;
+    height: 13vh;
+    background: #818181;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    font-family: 'poppind', sans-serif;
+}
+
+.contact{
+    width: 100%;
+    height: 43vh;
+    background: #818181;
+    display: flexbox;
+    align-items: center;
+    justify-content: left;
+    font-family: 'poppind', sans-serif;
+}
