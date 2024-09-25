@@ -1,2 +1,2 @@
 # MyCV
-This is a short butt descriptive CV of myself.
+This is a short but descriptive CV of myself.
